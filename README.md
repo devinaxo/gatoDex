@@ -25,8 +25,6 @@
 
 > [!NOTE]
 > **100% local & offline-first.** GatoDex stores everything in an on-device SQLite database. There is no account, no tracking, no analytics and no server — your cats never leave your phone.
->
-> [!NOTE]
 > The only features that need a connection are the **OpenStreetMap tiles** (the map screen degrades to a blank canvas offline) and the **random cat name generator**. Everything else works fully offline.
 
 ---
@@ -104,7 +102,7 @@
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
 
 #### Interface
 
