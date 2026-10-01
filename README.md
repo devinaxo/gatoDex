@@ -2,7 +2,7 @@
 
 <img src="assets/icon/icon.png" alt="GatoDex app icon" width="200" />
 
-# GatoDex
+# gatoDex
 
 ### Your personal cat collection
 
