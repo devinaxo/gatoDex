@@ -19,7 +19,7 @@
 
 <br/>
 
-[**Download**](#download) · [**Features**](#features) · [**Screenshots**](#screenshots) · [**Credits**](#credits)
+[**Screenshots**](#screenshots) · [**Features**](#features) · [**Download**](#download) · [**Credits**](#credits)
 
 </div>
 
