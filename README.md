@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Latest release](https://img.shields.io/github/v/release/devinaxo/GatoDex-Flutter?display_name=tag&style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/GatoDex-Flutter/releases)
-[![Downloads](https://img.shields.io/github/downloads/devinaxo/GatoDex-Flutter/total?style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/GatoDex-Flutter/releases)
-[![Stars](https://img.shields.io/github/stars/devinaxo/GatoDex-Flutter?style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/GatoDex-Flutter/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/devinaxo/gatoDex?display_name=tag&style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/gatoDex/releases)
+[![Downloads](https://img.shields.io/github/downloads/devinaxo/gatoDex/total?style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/gatoDex/releases)
+[![Stars](https://img.shields.io/github/stars/devinaxo/gatoDex?style=for-the-badge&labelColor=0d1117&color=FFD166)](https://github.com/devinaxo/gatoDex/stargazers)
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117)](https://flutter.dev)
 
 <br/>
@@ -125,7 +125,7 @@
 
 <h3>All builds are published on the Releases page. Grab the latest APK:</h3>
 
-<a href="https://github.com/devinaxo/GatoDex-Flutter/releases/latest">
+<a href="https://github.com/devinaxo/gatoDex/releases/latest">
   <img src="https://img.shields.io/badge/Download-GatoDex%20APK-FFD166?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="Download the latest GatoDex APK from GitHub Releases" height="60">
 </a>
 
@@ -138,13 +138,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/devinaxo/GatoDex-Flutter/releases/latest">
-        <img src="https://img.shields.io/github/v/release/devinaxo/GatoDex-Flutter?display_name=tag&style=for-the-badge&labelColor=0d1117&color=FFD166" alt="Latest GatoDex release" height="40">
+      <a href="https://github.com/devinaxo/gatoDex/releases/latest">
+        <img src="https://img.shields.io/github/v/release/devinaxo/gatoDex?display_name=tag&style=for-the-badge&labelColor=0d1117&color=FFD166" alt="Latest GatoDex release" height="40">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/devinaxo/GatoDex-Flutter/releases">
-        <img src="https://img.shields.io/github/downloads/devinaxo/GatoDex-Flutter/total?style=for-the-badge&labelColor=0d1117&color=FFD166" alt="Total GatoDex downloads" height="40">
+      <a href="https://github.com/devinaxo/gatoDex/releases">
+        <img src="https://img.shields.io/github/downloads/devinaxo/gatoDex/total?style=for-the-badge&labelColor=0d1117&color=FFD166" alt="Total GatoDex downloads" height="40">
       </a>
     </td>
   </tr>
@@ -170,8 +170,8 @@
 <h3>Building from source</h3>
 
 ```bash
-git clone https://github.com/devinaxo/GatoDex-Flutter.git
-cd GatoDex-Flutter
+git clone https://github.com/devinaxo/gatoDex.git
+cd gatoDex
 flutter pub get
 flutter run
 ```

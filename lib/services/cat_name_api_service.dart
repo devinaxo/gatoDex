@@ -12,7 +12,7 @@ class CatNameApiService {
         Uri.parse(_baseUrl),
         headers: {
           'Content-Type': 'application/json',
-          'User-Agent': 'GatoDex-Flutter/1.0',
+          'User-Agent': 'gatoDex/1.0',
         },
       ).timeout(Duration(seconds: 10));
       
@@ -43,7 +43,7 @@ class CatNameApiService {
         Uri.parse('$_baseUrl?limit=$safeLimit'),
         headers: {
           'Content-Type': 'application/json',
-          'User-Agent': 'GatoDex-Flutter/1.0',
+          'User-Agent': 'gatoDex/1.0',
         },
       ).timeout(Duration(seconds: 10));
       
